@@ -1,0 +1,92 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    color: #ff637d;
+}
+h3{
+    font-size: 30px;
+    font-weight: 100;
+}
+p{
+    color: dimgray;
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 9%;
+    padding: 2%;
+    margin-top: 15%;
+}
+.half-width img{
+    width: 650px;
+    height: 686px;
+}
+.head-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 1073px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #e1347f, #ff637d);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;   
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+#bio-pic{
+    width: 500px;
+    height: 548px;
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.lw{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+}
+#three-pic{
+    width:100%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 15%;
+    padding: 5%; 
+}
+.together{
+    width: 500px;
+    height: 450px;
+}
+h5{
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+}
+h6{
+    text-align: center;
+    font-weight: 300;
+    color: dimgray;
+    font-size: 10px;
+}
+.comment{
+    text-align: center;
+    font-weight: 500;
+}
+.last-part{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+}
+footer{
+    text-align: center;
+}
